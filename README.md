@@ -36,7 +36,9 @@ https://www.meetup.com/JTPA-Japanese-Technology-Professionals-Association/
 
 
 ## MLの基礎用語・知識に自信がない方はこちらが事前必読署です
+
 [ 機械学習を学習する by Google Cloud （漫画で分かるマシンラーニング）](https://cloud.google.com/products/ai/ml-comic-1/?hl=ja)
+
 [ 機械学習を学習する by Google Cloud （漫画で分かるディープラーニング）](https://cloud.google.com/products/ai/ml-comic-2/?hl=ja)
 
 
