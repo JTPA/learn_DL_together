@@ -1,6 +1,7 @@
 # JTPA みんなでやろうDL オンライン勉強会 Day 3
 
 Date: 5/20/2020 (Wed) 9PM
+
 Venue: Hangout Meet
 
 ## RNN / 時系列データ処理
