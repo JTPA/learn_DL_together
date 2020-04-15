@@ -7,6 +7,9 @@
 * 前半はDLのフレームワークである[Keras](https://keras.io/ja/)を使って各種の簡単なDLモデルをJTPAのスタッフが実演／解説
 * 後半はJTPAのギークサロンライクに特別ゲストをお呼びして、より深い技術分野や旬の話題をご解説頂きます
 * 勉強会は Hangout Meetを用いてオンラインでの配信／参加 参加は無料／自由入退出OK
+* 事前や事後の質問はissueを作って質問してもらうか、twitterにて [@Jiny2001](https://twitter.com/Jiny2001) と [@glory791days](https://twitter.com/glory791days) まで
+
+## 全体お役立ちリンク まで
 
 
 
