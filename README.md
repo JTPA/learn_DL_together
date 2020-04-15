@@ -34,13 +34,6 @@ https://www.meetup.com/JTPA-Japanese-Technology-Professionals-Association/
 | Day 6  |  |  | | TBD |
 | Day 6.5  |  | 復習用 もくもく会|
 
-
-### MLの基礎用語・知識に自信がない方はこちらが事前必読署です
-
-[ 機械学習を学習する by Google Cloud （漫画で分かるマシンラーニング）](https://cloud.google.com/products/ai/ml-comic-1/?hl=ja)
-
-[ 機械学習を学習する by Google Cloud （漫画で分かるディープラーニング）](https://cloud.google.com/products/ai/ml-comic-2/?hl=ja)
-
 ### Google Colab とは？
 
 Googleの提供する無料のクラウドサービスです。
@@ -59,4 +52,16 @@ DL用のPythonフレームワークあるいはライブラリです。Tensorflo
 山中 仁 / Google, Research Engineer [@Jiny2001](https://twitter.com/Jiny2001)
 
 西田 祐木 / Waymo, Software Engineer [@glory791days](https://twitter.com/glory791days)
+
+## 全体お役立ちリンク
+
+__MLの基礎用語・知識に自信がない方のための事前必読署：__
+
+[ 機械学習を学習する by Google Cloud （漫画で分かるマシンラーニング）](https://cloud.google.com/products/ai/ml-comic-1/?hl=ja)
+
+[ 機械学習を学習する by Google Cloud （漫画で分かるディープラーニング）](https://cloud.google.com/products/ai/ml-comic-2/?hl=ja)
+
+__画像認識や人体ポーズ推定など、各種のDLモデルがColab上でオンラインで気軽に試せるプロジェクト：__
+
+[tugstugi/dl-colab-notebooks](https://github.com/tugstugi/dl-colab-notebooks)
 
