@@ -9,7 +9,7 @@ Chat: nocnoc
 ## CNN / Dropout / 他各種テクニック
 
 コースマテリアル:
-[TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/) 前半
+[TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/) 後半
 
 ### Step 1.
 
