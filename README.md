@@ -23,9 +23,9 @@ https://www.meetup.com/JTPA-Japanese-Technology-Professionals-Association/
 |:------:|:-------------------:| :-----------------:|:-----------------:|:-----------------:|
 | [Day 1](Day1_ML_Basic.md)  | 4/22/2020 (Wed) 9PM | ML/DLの基本原理を理解 |[TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/) 前半| [矢戸 知得](https://www.linkedin.com/in/chitoku-yato-01ba304/) 氏 (NVIDIA テクニカルマーケティング・マネジャー) |
 | Day 1.5  | 4/29/2020 (Wed) 9PM | 復習用 もくもく会|
-| [Day 2](Day2_CNN_and_more.md)  | 5/6/2020 (Wed) 9PM | CNN / Dropout / 他各種テクニック |[TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/) 後半| [山下力也](https://www.linkedin.com/in/rikiya-yamashita/) 氏 (スタンフォード大 Department of Biomedical Data Science ポスドク) |
+| [Day 2](Day2_CNN_and_more.md)  | 5/6/2020 (Wed) 9PM | CNN / Dropout / 他各種テクニック |[TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/) 後半| [山下 力也](https://www.linkedin.com/in/rikiya-yamashita/) 氏 (スタンフォード大 Department of Biomedical Data Science ポスドク) |
 | Day 2.5  | 5/13/2020 (Wed) 9PM | 復習用 もくもく会|
-| [Day 3](Day3_RNN.md)   | 5/20/2020 (Wed) 9PM | RNN / 時系列データ処理 | TBD | [数原良彦](https://yoshi-suhara.com/) 氏 (Megagon Labs リサーチサイエンティスト) |
+| [Day 3](Day3_RNN.md)   | 5/20/2020 (Wed) 9PM | RNN / 時系列データ処理 | TBD | [数原 良彦](https://yoshi-suhara.com/) 氏 (Megagon Labs リサーチサイエンティスト) |
 | Day 2.5  | 5/27/2020 (Wed) 9PM | 復習用 もくもく会|
 | Day 4  |  | 強化学習? |  | TBD |
 | Day 4.5  |  | 復習用 もくもく会|
