@@ -9,12 +9,14 @@
 * 勉強会は Hangout Meetを用いてオンラインでの配信／参加 参加は無料／自由入退出OK
 * 事前や事後の質問はissueを作って質問してもらうか、twitterにて [@Jiny2001](https://twitter.com/Jiny2001) と [@glory791days](https://twitter.com/glory791days) まで
 
+<br>
 
 勉強会開催後の次週はオンラインもくもく会です。自由にコードを書いて復習したり作ったものを皆に共有する時間として使って下さい。当日はJTPAスタッフが質問などにお答えします。
 
 ## 参加者管理 / 参加申請
 https://www.meetup.com/JTPA-Japanese-Technology-Professionals-Association/
 
+<br>
 
 ## Prerequisites / 参加のために必要なこと
 
@@ -22,8 +24,14 @@ https://www.meetup.com/JTPA-Japanese-Technology-Professionals-Association/
 
 Colabノートを使って理解した内容を適宜実行してML/DLの基本構造をよりよく理解することを目標としています。参加希望者数が多く、当日のスムーズな進行のために参加者様には事前に下記の確認をお願い致します。
 
+0) __事前アンケート (ツールやMLに対しての事前知識の確認)をお願い致します__
+
+[みんなでやろうDLの会　初回前アンケート](https://forms.gle/zumyqq5Y3vX3TPt58) への記入をお願い致します
+
 1) __Python の基本構文を理解しておく__
-　不安のある方はこちらに [Pythonの基本文法まとめてやんよ!!!](http://tokidoki-web.com/2016/02/python%E3%81%AE%E5%9F%BA%E6%9C%AC%E6%96%87%E6%B3%95%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E3%82%84%E3%82%93%E3%82%88/)
+
+不安のある方はこちらに [Pythonの基本文法まとめてやんよ!!!](http://tokidoki-web.com/2016/02/python%E3%81%AE%E5%9F%BA%E6%9C%AC%E6%96%87%E6%B3%95%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E3%82%84%E3%82%93%E3%82%88/)
+
 
 2) __Google Colab ノートでセルの実行の仕方を理解しておく__
 
@@ -33,10 +41,13 @@ Colabノートを使って理解した内容を適宜実行してML/DLの基本�
  
 下記画像にしたがって 1.1 Inference a single image まで実行できることをご確認お願い致します。
 
-<img src="images/colab1.png" width="320">
+[Google Colaboratory（グーグルコラボ）の 使い方](https://pyhoo.jp/google-colaboratory-manual)
 
-<img src="images/colab2.png" width="320">
+| | |
+|---|---|
+|<img src="images/colab1.png" width="320">|<img src="images/colab2.png" width="320">|
 
+<br>
 
 ## Road map
 
@@ -55,6 +66,8 @@ Colabノートを使って理解した内容を適宜実行してML/DLの基本�
 | Day 6  |  |  | | TBD |
 | Day 6.5  |  | 復習用 もくもく会|
 
+<br>
+
 ### Google Colab とは？
 
 Googleの提供する無料のクラウドサービスです。
@@ -71,10 +84,14 @@ DL用のPythonフレームワークあるいはライブラリです。Tensorflo
 
 [Keras: Pythonの深層学習ライブラリ](https://keras.io/ja/)
 
+<br>
+
 ## JTPA対応スタッフ：
 山中 仁 / Google, Research Engineer [@Jiny2001](https://twitter.com/Jiny2001)
 
 西田 祐木 / Waymo, Software Engineer [@glory791days](https://twitter.com/glory791days)
+
+<br>
 
 ## 全体お役立ちリンク
 
