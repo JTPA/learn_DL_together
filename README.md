@@ -57,6 +57,7 @@ Colabノートを使って理解した内容を適宜実行してML/DLの基本�
 
 3) [当日 進度確認／フィードバック用ツール CommentScreen ](https://commentscreen.com/comments?room=DL_together)
 
+<br>
 
 ## Road map
 
@@ -95,10 +96,12 @@ DL用のPythonフレームワークあるいはライブラリです。Tensorflo
 
 <br>
 
-## JTPA対応スタッフ：
+## スタッフ：
 山中 仁 / Google, Research Engineer [@Jiny2001](https://twitter.com/Jiny2001)
 
 西田 祐木 / Waymo, Software Engineer [@glory791days](https://twitter.com/glory791days)
+
+運営：[JTPA (Japanese Technology Professionals Association) ](https://jtpa.org/)
 
 <br>
 
