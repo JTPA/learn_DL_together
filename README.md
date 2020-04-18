@@ -16,6 +16,27 @@
 https://www.meetup.com/JTPA-Japanese-Technology-Professionals-Association/
 
 
+## Prerequisites / 参加のために必要なこと
+
+本勉強会は皆が集まって勉強するのをJTPAスタッフ及び特別ゲストがサポートするというスタンスです。
+
+Colabノートを使って理解した内容を適宜実行してML/DLの基本構造をよりよく理解することを目標としています。参加希望者数が多く、当日のスムーズな進行のために参加者様には事前に下記の確認をお願い致します。
+
+1) __Python の基本構文を理解しておく__
+　不安のある方はこちらに [Pythonの基本文法まとめてやんよ!!!](http://tokidoki-web.com/2016/02/python%E3%81%AE%E5%9F%BA%E6%9C%AC%E6%96%87%E6%B3%95%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E3%82%84%E3%82%93%E3%82%88/)
+
+2) __Google Colab ノートでセルの実行の仕方を理解しておく__
+
+下記のColabノートを開くと物体認識のDLモデルを実行できるノートが開きます。
+
+[Google EfficientDet](https://colab.research.google.com/github/google/automl/blob/master/efficientdet/tutorial.ipynb)
+ 
+下記画像にしたがって 1.1 Inference a single image まで実行できることをご確認お願い致します。
+
+<img src="images/colab1.png" width="320">
+
+<img src="images/colab2.png" width="320">
+
 
 ## Road map
 
@@ -39,6 +60,8 @@ https://www.meetup.com/JTPA-Japanese-Technology-Professionals-Association/
 Googleの提供する無料のクラウドサービスです。
 
 自分の書いたPythonコードをGoogleの提供するサーバーやGPUを利用して実行できるだけでなく、Linuxのコマンドを実行して自由にモジュールをインストールすることができ、さらには自分のコードをGoogle Driveに保存したり他人と共有することができる大変便利なサービスです。
+
+[Google Colaboratory（グーグルコラボ）の 使い方](https://pyhoo.jp/google-colaboratory-manual)
 
 [codExa.net Google Colabの知っておくべき使い方](https://www.codexa.net/how-to-use-google-colaboratory/)
 
