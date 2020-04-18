@@ -1,7 +1,7 @@
 # JTPA みんなでやろうDL オンライン勉強会
 
 * 全6回予定の隔週水曜日開催
-* 初心者向け
+* 初心者向け （但し DLをしっかりマスターするつもりの方）
 * [Google Colab](https://colab.research.google.com/)を使ってオンラインでコードを実行し演習を行います
 * 各回は前半45分と後半30分
 * 前半はDLのフレームワークである[Keras](https://keras.io/ja/)を使って各種の簡単なDLモデルをJTPAのスタッフが実演／解説
@@ -24,18 +24,16 @@ https://www.meetup.com/JTPA-Japanese-Technology-Professionals-Association/
 
 Colabノートを使って理解した内容を適宜実行してML/DLの基本構造をよりよく理解することを目標としています。参加希望者数が多く、当日のスムーズな進行のために参加者様には事前に下記の確認をお願い致します。
 
-0) __事前アンケート (ツールやMLに対しての事前知識の確認)をお願い致します__
+0) __アンケート (ツールやMLに対しての事前知識の確認)__ [みんなでやろうDLの会　初回前アンケート](https://forms.gle/zumyqq5Y3vX3TPt58) への記入をお願い致します
+<br>
 
-[みんなでやろうDLの会　初回前アンケート](https://forms.gle/zumyqq5Y3vX3TPt58) への記入をお願い致します
-
-1) __Python の基本構文を理解しておく__
-
-不安のある方はこちらに [Pythonの基本文法まとめてやんよ!!!](http://tokidoki-web.com/2016/02/python%E3%81%AE%E5%9F%BA%E6%9C%AC%E6%96%87%E6%B3%95%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E3%82%84%E3%82%93%E3%82%88/)
+1) __Python の基本構文を理解しておく__　不安のある方は [Pythonの基本文法まとめてやんよ!!!](http://tokidoki-web.com/2016/02/python%E3%81%AE%E5%9F%BA%E6%9C%AC%E6%96%87%E6%B3%95%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E3%82%84%E3%82%93%E3%82%88/)
+<br>
 
 
 2) __Google Colab ノートでセルの実行の仕方を理解しておく__
 
-下記のColabノートを開くと物体認識のDLモデルを実行できるノートが開きます。
+　下記のColabノートを開くと物体認識のDLモデルを実行できるノートが開きます。
 
 [Google EfficientDet](https://colab.research.google.com/github/google/automl/blob/master/efficientdet/tutorial.ipynb)
  
@@ -48,6 +46,17 @@ Colabノートを使って理解した内容を適宜実行してML/DLの基本�
 |<img src="images/colab1.png" width="320">|<img src="images/colab2.png" width="320">|
 
 <br>
+
+
+## 当日利用する予定のツール
+
+1) Hangout Meet (ミーティングURLは meetup.comにて参加予定者へ送付)
+
+2) [イベント用チャットツール nocnoc (当日用のページ)](https://nocnoc.ooo/event/498A5C34-C242-4068-AC0C-4B06E168CFAB)
+ (colabの実行についてやMLなどについての事前の質問はこちらへ)
+
+3) [当日 進度確認／フィードバック用ツール CommentScreen ](https://commentscreen.com/comments?room=DL_together)
+
 
 ## Road map
 
