@@ -37,6 +37,9 @@ Venue: Hangout Meet
 
 ### Step 3. Keras: Let's jump into the code!
 
+1) Slide (TBD)
+
+2) [TensorFlow, Keras and deep learning, without a PhD (JTPA Tutorial) ](https://colab.research.google.com/drive/1-LxxXEfhkuGXOkcKvbJPWsPo2XALO5i-)
 <br>
 
 ## 特別ゲスト
