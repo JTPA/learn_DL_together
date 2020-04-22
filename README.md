@@ -35,9 +35,7 @@ Colabノートを使って理解した内容を適宜実行してML/DLの基本�
 
 　下記のColabノートを開くと物体認識のDLモデルを実行できるノートが開きます。
 
-[Google EfficientDet (本家)](https://colab.research.google.com/github/google/automl/blob/master/efficientdet/tutorial.ipynb)
-
-[Google EfficientDet (エラー修正版)](https://colab.research.google.com/drive/1-LxxXEfhkuGXOkcKvbJPWsPo2XALO5i-)
+[Google EfficientDet](https://colab.research.google.com/github/google/automl/blob/master/efficientdet/tutorial.ipynb)
 
 下記画像にしたがって 1.1 Inference a single image まで実行できることをご確認お願い致します。
 
