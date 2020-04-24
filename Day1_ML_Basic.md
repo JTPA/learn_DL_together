@@ -55,7 +55,7 @@ Venue: Hangout Meet
 
 * [SSD PyTorchを使った Youtubeビデオの画像認識](https://colab.sandbox.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SSD_Pytorch_Video.ipynb)
 
-* [Naotake さんのオススメコース（1ヶ月でPythonとML/DLをマスター）](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
+* [Naotakeさんのオススメ Udemyコース（1ヶ月でPythonとML/DLをマスター）](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
 
-* [Yuki さんのオススメ Coursera / Andrew NgのMLコース](https://www.coursera.org/learn/machine-learning)
+* [Yukiさんのオススメ Coursera / Andrew NgのMLコース](https://www.coursera.org/learn/machine-learning)
 
