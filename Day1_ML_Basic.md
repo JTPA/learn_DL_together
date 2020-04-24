@@ -5,7 +5,7 @@ Date: 4/22/2020 (Wed) 9PM
 Venue: Hangout Meet
 
 [イベント用チャットツール nocnoc (当日用のページ)](https://nocnoc.ooo/event/498A5C34-C242-4068-AC0C-4B06E168CFAB)
- (colabの実行についてやMLなどについての事前の質問・参加者自己紹介などはこちらへ)
+ (当日／事前の質問・参加者自己紹介などはこちらへ)
 
 [当日 進度確認／フィードバック用ツール CommentScreen ](https://commentscreen.com/comments?room=DL_together)
 
@@ -20,7 +20,7 @@ Venue: Hangout Meet
 
 ### Step 1. MLの基本知識確認
 
-[MLクイズ！](https://forms.gle/zumyqq5Y3vX3TPt58) への記入をお願い致します
+[MLクイズ！](https://forms.gle/zumyqq5Y3vX3TPt58) への記入をお願い致します （回答者35人ありがとうございました！！）
 
 <br>
 
@@ -37,9 +37,9 @@ Venue: Hangout Meet
 
 ### Step 3. Keras: Let's jump into the code!
 
-1) Slide (TBD)
+1) [当日のスライド](slides/learn_DL_together_day1.pdf)
 
-2) [TensorFlow, Keras and deep learning, without a PhD (JTPA Tutorial) ](https://colab.research.google.com/drive/1-LxxXEfhkuGXOkcKvbJPWsPo2XALO5i-)
+2) [mnist tutorial](https://colab.research.google.com/drive/1-LxxXEfhkuGXOkcKvbJPWsPo2XALO5i-)
 <br>
 
 ## 特別ゲスト
@@ -47,7 +47,15 @@ Venue: Hangout Meet
 
 当日予定トピック： nVidiaのエッジラーニングデバイスやDeep Learning 教材の紹介や、スタンフォード大学のハッカソンプロジェクトTreeHackの紹介など
 
-* [当日参考リンク1]()
-* [当日参考リンク2]()
-* [当日参考リンク3]()
+<br>
+
+### 当日上がった教材へのリンクなど
+
+* [人間の姿勢認識モデル AlphaPose](https://colab.sandbox.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/AlphaPoseV0_3_0.ipynb)
+
+* [SSD PyTorchを使った Youtubeビデオの画像認識](https://colab.sandbox.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SSD_Pytorch_Video.ipynb)
+
+* [Naotake さんのオススメコース（1ヶ月でPythonとML/DLをマスター）](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
+
+* [Yuki さんのオススメ Coursera / Andrew NgのMLコース](https://www.coursera.org/learn/machine-learning)
 
