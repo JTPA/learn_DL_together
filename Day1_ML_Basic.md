@@ -37,13 +37,16 @@ Venue: Hangout Meet
 
 ### Step 3. Keras: Let's jump into the code!
 
-1) [当日のスライド](slides/learn_DL_together_day1.pdf)
+1) 当日のスライド （前半／後半）はmeetupにて参加者向けにURLを送らせて頂きます
 
 2) [mnist tutorial](https://colab.research.google.com/drive/1-LxxXEfhkuGXOkcKvbJPWsPo2XALO5i-)
 <br>
 
 ## 特別ゲスト
+
 [矢戸 知得](https://www.linkedin.com/in/chitoku-yato-01ba304/) 氏 (NVIDIA テクニカルマーケティング・マネジャー)
+
+林 鋭志 氏 (Google ATAP / Staff Research Engineer)
 
 当日予定トピック： nVidiaのエッジラーニングデバイスやDeep Learning 教材の紹介や、スタンフォード大学のハッカソンプロジェクトTreeHackの紹介など
 
@@ -51,9 +54,13 @@ Venue: Hangout Meet
 
 ### 当日上がった教材へのリンクなど
 
-* [人間の姿勢認識モデル AlphaPose](https://colab.sandbox.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/AlphaPoseV0_3_0.ipynb)
+* [JetRacer github](https://github.com/NVIDIA-AI-IOT/jetracer/)
 
-* [SSD PyTorchを使った Youtubeビデオの画像認識](https://colab.sandbox.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SSD_Pytorch_Video.ipynb)
+* [Pocket PT](https://devpost.com/software/pocketpt)
+
+* [人間の姿勢認識モデル AlphaPose in Colab](https://colab.sandbox.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/AlphaPoseV0_3_0.ipynb)
+
+* [SSD PyTorchを使った Youtubeビデオの画像認識 in Colab](https://colab.sandbox.google.com/github/tugstugi/dl-colab-notebooks/blob/master/notebooks/SSD_Pytorch_Video.ipynb)
 
 * [Naotakeさんのオススメ Udemyコース（1ヶ月でPythonとML/DLをマスター）](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/)
 
