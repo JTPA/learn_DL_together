@@ -66,3 +66,5 @@ Venue: Hangout Meet
 
 * [Yukiさんのオススメ Coursera / Andrew NgのMLコース](https://www.coursera.org/learn/machine-learning)
 
+* [Kenさんのお勧め Kerasの使い方まとめ【入門者向け】](https://sinyblog.com/deaplearning/keras_how_to/)
+
