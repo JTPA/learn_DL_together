@@ -113,7 +113,11 @@ __MLの基礎用語・知識に自信がない方のための事前必読署：_
 
 [ 機械学習を学習する by Google Cloud （漫画で分かるディープラーニング）](https://cloud.google.com/products/ai/ml-comic-2/?hl=ja)
 
+
 __画像認識や人体ポーズ推定など、各種のDLモデルがColab上でオンラインで気軽に試せるプロジェクト：__
 
 [tugstugi/dl-colab-notebooks](https://github.com/tugstugi/dl-colab-notebooks)
 
+__Jiny2001によりDL主要 論文リスト：__
+
+[10年ひと昔。おっさんが懐かしむディープラーニングの超基本論文まとめ](https://qiita.com/jiny2001/items/94081320ab1d92a20283)
