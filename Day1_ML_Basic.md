@@ -68,3 +68,4 @@ Venue: Hangout Meet
 
 * [Kenさんのお勧め Kerasの使い方まとめ【入門者向け】](https://sinyblog.com/deaplearning/keras_how_to/)
 
+* [TensorFlow, Keras and deep learning, without a PhD (youtube 解説動画)](https://www.youtube.com/watch?v=u4alGiomYP4)
