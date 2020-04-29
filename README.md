@@ -118,6 +118,6 @@ __画像認識や人体ポーズ推定など、各種のDLモデルがColab上�
 
 [tugstugi/dl-colab-notebooks](https://github.com/tugstugi/dl-colab-notebooks)
 
-__Jiny2001によりDL主要 論文リスト：__
+__Jiny2001によるDL主要 論文リスト：__
 
 [10年ひと昔。おっさんが懐かしむディープラーニングの超基本論文まとめ](https://qiita.com/jiny2001/items/94081320ab1d92a20283)
