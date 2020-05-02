@@ -64,7 +64,7 @@ Colabノートを使って理解した内容を適宜実行してML/DLの基本�
 |        | Date                | Title              | コースマテリアル             |特別ゲスト              |
 |:------:|:-------------------:| :-----------------:|:-----------------:|:-----------------:|
 | [Day 1](Day1_ML_Basic.md)  | 4/22/2020 (Wed) 9PM | ML/DLの基本原理を理解 |[TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/) 前半| [矢戸 知得](https://www.linkedin.com/in/chitoku-yato-01ba304/) 氏 (NVIDIA テクニカルマーケティング・マネジャー) |
-| Day 1.5  | 4/29/2020 (Wed) 9PM | 復習用 もくもく会|
+| [Day 1.5](Day1_5_ML_Basic.md)  | 4/29/2020 (Wed) 9PM | 復習用 もくもく会|
 | [Day 2](Day2_CNN_and_more.md)  | 5/6/2020 (Wed) 9PM | CNN / Dropout / 他各種テクニック |[TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/) 後半| [山下 力也](https://www.linkedin.com/in/rikiya-yamashita/) 氏 (スタンフォード大 Department of Biomedical Data Science ポスドク) |
 | Day 2.5  | 5/13/2020 (Wed) 9PM | 復習用 もくもく会|
 | [Day 3](Day3_RNN.md)   | 5/20/2020 (Wed) 9PM | RNN / 時系列データ処理 | TBD | [数原 良彦](https://yoshi-suhara.com/) 氏 (Megagon Labs リサーチサイエンティスト) |
@@ -120,4 +120,4 @@ __画像認識や人体ポーズ推定など、各種のDLモデルがColab上�
 
 __Jiny2001によるDL主要 論文リスト：__
 
-[10年ひと昔。おっさんが懐かしむディープラーニングの超基本論文まとめ](https://qiita.com/jiny2001/items/94081320ab1d92a20283)
+[ディープラーニングの超基本論文まとめ](https://qiita.com/jiny2001/items/94081320ab1d92a20283)
