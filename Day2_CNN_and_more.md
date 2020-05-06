@@ -6,11 +6,14 @@ Venue: Hangout Meet (URLは参加者向けにmeetupより通知されます)
 
 Chat: https://nocnoc.ooo/app#/chat/B1AB9B0B-1D5C-456E-BD0D-A68CBB6C889D
 
+<br>
 
 ## CNN / Dropout / 他各種テクニック
 
 コースマテリアル:
 [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/) 後半
+
+<br>
 
 ### 当日のトピック（予定）
 
@@ -22,8 +25,9 @@ We have done so far.
 
 * Gradient descent
 
-* Mini-batching and momentum
+* ( Mini-batching and momentum )
 
+<br>
 
 We will do.
 
