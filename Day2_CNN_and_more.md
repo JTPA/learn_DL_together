@@ -2,20 +2,40 @@
 
 Date: 5/6/2020 (Wed) 9PM
 
-Venue: Hangout Meet
+Venue: Hangout Meet (URLは参加者向けにmeetupより通知されます)
 
-Chat: nocnoc
+Chat: https://nocnoc.ooo/app#/chat/B1AB9B0B-1D5C-456E-BD0D-A68CBB6C889D
+
 
 ## CNN / Dropout / 他各種テクニック
 
 コースマテリアル:
 [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/) 後半
 
-### Step 1.
+### 当日のトピック（予定）
 
-### Step 2. 
+We have done so far.
 
-### Step 3. 
+* Activation functions: relu, softmax and sigmoid
+
+* Softmax / Cross-entropy loss
+
+* Gradient descent
+
+* Mini-batching and momentum
+
+
+We will do.
+
+* Learning rate decay
+
+* Dropout, overfitting
+
+* A convolutional network
+
+* ( Batch normalization )
+
+<br>
 
 
 ## 特別ゲスト
