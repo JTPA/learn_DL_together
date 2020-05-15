@@ -21,6 +21,8 @@ Date: 5/13/2020 (Wed) 9PM
 
 ## 当日使ったノート・資料
 
+* [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#5) 後半
+
 [Kenさんの自習に使ったノート](https://colab.research.google.com/drive/1bZNFIUbtNHldOTl-AMeRz7s35SKPxM6l?usp=sharing)
 
 [keras_01_mnist_JTPA_Day2.5](https://colab.research.google.com/drive/1k9NiSKp8stwYEdRnLTXNrNEgVhuYhvoN?usp=sharing)
