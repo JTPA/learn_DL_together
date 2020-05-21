@@ -2,18 +2,26 @@
 
 Date: 5/20/2020 (Wed) 9PM
 
-Venue: Hangout Meet
+Venue: Hangout Meet (meetup参加者あてに通知されます）
 
-## RNN / 時系列データ処理
+Chat: [https://nocnoc.ooo/app#/chat/E3F2F42A-7FD7-4FB2-9232-B95E54C53621](https://nocnoc.ooo/app#/chat/E3F2F42A-7FD7-4FB2-9232-B95E54C53621)
 
-コースマテリアル:
-TBD
+
+## RNN, LSTM / NLP最新アーキテクチャ (BERT/Transfomerなど）解説
+
+
+当日前半の[スライド](https://docs.google.com/presentation/d/1LCMVEfYYajOMr_W4iQUvkIvZ43f5cce5Mwvjyo5r1po/edit?usp=sharing)
 
 ### Step 1.
 
-### Step 2.
+CNN画像処理モデルの基本をおさらい
 
-### Step 3.
+
+### Setp 2.
+
+RNN / LSTMを使ってみたい気になる
+
+
 
 ## 特別ゲスト: [数原良彦](https://yoshi-suhara.com/) 氏
 
