@@ -30,7 +30,8 @@ Chat: [https://nocnoc.ooo/app#/chat/E3F2F42A-7FD7-4FB2-9232-B95E54C53621](https:
 
 <BR>
   
-## 特別ゲスト: 数原良彦 [https://yoshi-suhara.com/](https://yoshi-suhara.com/) 氏
+## 特別ゲスト: 数原良彦 氏 
+[https://yoshi-suhara.com/](https://yoshi-suhara.com/) 
 
 数原良彦 / Megagon Labs リサーチサイエンティスト
 
