@@ -17,14 +17,10 @@ Chat: [https://nocnoc.ooo/app#/chat/E3F2F42A-7FD7-4FB2-9232-B95E54C53621](https:
 
 <br>
 
-### 1.
-
-CNN画像処理モデルの基本をおさらい
+### 1. CNN画像処理モデルの基本をおさらい
 
 
-### 2.
-
-RNN / LSTMを使ってみたい気になる
+### 2. RNN / LSTMを使ってみたい気になる
 
 * [word2vec](https://radimrehurek.com/gensim/models/word2vec.html)
 * [fastText](https://fasttext.cc/)
