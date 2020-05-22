@@ -28,7 +28,8 @@ Chat: [https://nocnoc.ooo/app#/chat/E3F2F42A-7FD7-4FB2-9232-B95E54C53621](https:
 * [Animated RNN, LSTM and GRU](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45)
 * [keras LSTM Layer](https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM)
 
-
+<BR>
+  
 ## 特別ゲスト: [数原良彦](https://yoshi-suhara.com/) 氏
 
 数原良彦 / Megagon Labs リサーチサイエンティスト
