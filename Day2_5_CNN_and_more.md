@@ -25,5 +25,5 @@ Date: 5/13/2020 (Wed) 9PM
 
 [Kenさんの自習に使ったノート](https://colab.research.google.com/drive/1bZNFIUbtNHldOTl-AMeRz7s35SKPxM6l?usp=sharing)
 
-[keras_01_mnist_JTPA_Day2.5](https://colab.research.google.com/drive/1k9NiSKp8stwYEdRnLTXNrNEgVhuYhvoN?usp=sharing)
+[Day2.5 各種アーキテクチャ性能比較用ノート](https://colab.research.google.com/drive/1k9NiSKp8stwYEdRnLTXNrNEgVhuYhvoN?usp=sharing)
 
