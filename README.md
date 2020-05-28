@@ -68,7 +68,7 @@ Colabノートを使って理解した内容を適宜実行してML/DLの基本�
 | [Day 2](Day2_CNN_and_more.md)  | 5/6/2020 (Wed) 9PM | CNN / Dropout / 他各種テクニック |[TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/) 後半| [山下 力也](https://www.linkedin.com/in/rikiya-yamashita/) 氏 (スタンフォード大 Department of Biomedical Data Science ポスドク) |
 | [Day 2.5](Day2_5_CNN_and_more.md)   | 5/13/2020 (Wed) 9PM | 復習用 もくもく会|
 | [Day 3](Day3_RNN.md)   | 5/20/2020 (Wed) 9PM | RNN / 時系列データ処理 | [Illustrated Guide to LSTM’s and GRU’s](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21) | [数原 良彦](https://yoshi-suhara.com/) 氏 (Megagon Labs リサーチサイエンティスト) |
-| Day 3.5  | 5/27/2020 (Wed) 9PM | 復習用 もくもく会|
+| [Day 3.5](Day3_5_RNN.md)  | 5/27/2020 (Wed) 9PM | 復習用 もくもく会|
 | Day 4  |  | 強化学習? |  | TBD |
 | Day 4.5  |  | 復習用 もくもく会|
 | Day 5  |  |  | | TBD |
