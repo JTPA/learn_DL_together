@@ -4,7 +4,7 @@ Date: 6/17/2020 (Wed) 8PM
 
 Venue: Hangout Meet (meetup参加者あてに通知されます）
 
-Chat: [chatツール nocnoc]()
+Chat: [https://nocnoc.ooo/app#/chat/A1B6CDAC-637F-4455-9582-D086AC289268](https://nocnoc.ooo/app#/chat/A1B6CDAC-637F-4455-9582-D086AC289268)
 
 <br>
   
