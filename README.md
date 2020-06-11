@@ -1,12 +1,13 @@
 # JTPA みんなでやろうDL オンライン勉強会
 
-* 全6回予定の隔週水曜日開催
-* 初心者向け （但し DLをしっかりマスターするつもりの方）
+* 全6回 隔週水曜日開催 (勉強会の次の週はフォローアップ用のもくもく会)
+* 初心者向け （但し コードを書いてDLをしっかりマスターするつもりの方のみ）
 * [Google Colab](https://colab.research.google.com/)を使ってオンラインでコードを実行し演習を行います
-* 各回は前半45分と後半30分
-* 前半はDLのフレームワークである[Keras](https://keras.io/ja/)を使って各種の簡単なDLモデルをJTPAのスタッフが実演／解説
-* 後半はJTPAのギークサロンライクに特別ゲストをお呼びして、より深い技術分野や旬の話題をご解説頂きます
-* 勉強会は Hangout Meetを用いてオンラインでの配信／参加 参加は無料／自由入退出OK
+* 各回は前半45分と後半45分
+* 前半は各種の基礎知識や基本DLアーキテクチャをJTPAのスタッフが実演／解説
+* 後半はJTPAギークサロンライクに特別ゲストをお呼びして、より深い技術分野や旬の話題をご解説頂きます
+* 勉強会は Hangout Meetを用いてオンラインでの配信／参加 参加は無料／自由入退出OK　ご飯食べながらやビール飲みながら聞くのもOK
+* DLフレームワークは[Keras](https://keras.io/ja/)を使用
 * 事前や事後の質問はissueを作って質問してもらうか、twitterにて [@Jiny2001](https://twitter.com/Jiny2001) と [@glory791days](https://twitter.com/glory791days) まで
 
 <br>
@@ -24,7 +25,7 @@ https://www.meetup.com/JTPA-Japanese-Technology-Professionals-Association/
 
 Colabノートを使って理解した内容を適宜実行してML/DLの基本構造をよりよく理解することを目標としています。参加希望者数が多く、当日のスムーズな進行のために参加者様には事前に下記の確認をお願い致します。
 
-0) __アンケート (ツールやMLに対しての事前知識の確認)__ [みんなでやろうDLの会　初回前アンケート](https://forms.gle/zumyqq5Y3vX3TPt58) への記入をお願い致します
+0) __アンケート (ツールやMLに対しての事前知識の確認)__ Day1参加者は[みんなでやろうDLの会　初回前アンケート](https://forms.gle/zumyqq5Y3vX3TPt58) への記入をお願い致します
 <br>
 
 1) __Python の基本構文を理解しておく__　不安のある方は [Pythonの基本文法まとめてやんよ!!!](http://tokidoki-web.com/2016/02/python%E3%81%AE%E5%9F%BA%E6%9C%AC%E6%96%87%E6%B3%95%E3%81%BE%E3%81%A8%E3%82%81%E3%81%A6%E3%82%84%E3%82%93%E3%82%88/)
@@ -69,12 +70,12 @@ Colabノートを使って理解した内容を適宜実行してML/DLの基本�
 | [Day 2.5](Day2_5_CNN_and_more.md)   | 5/13/2020 (Wed) 9PM | 復習用 もくもく会|
 | [Day 3](Day3_RNN.md)   | 5/20/2020 (Wed) 9PM | RNN / 時系列データ処理 | [Illustrated Guide to LSTM’s and GRU’s](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21) | [数原 良彦](https://yoshi-suhara.com/) 氏 (Megagon Labs リサーチサイエンティスト) |
 | [Day 3.5](Day3_5_RNN.md)  | 5/27/2020 (Wed) 9PM | 復習用 もくもく会|
-| Day 4  |  | 強化学習? |  | TBD |
-| Day 4.5  |  | 復習用 もくもく会|
-| Day 5  |  |  | | TBD |
-| Day 5.5  |  | 復習用 もくもく会|
-| Day 6  |  |  | | TBD |
-| Day 6.5  |  | 復習用 もくもく会|
+| [Day 4](Day4_Networks.md)  | 6/17/2020 (Wed) 8PM | ResNetやEncoder-Decoderなど、画像系 必須アーキテクチャ |  | [土田 安紘](https://awl.co.jp/member/yasuhiro-tsuchida/) |
+| [Day 4.5](Day4_5_Networks.md)  | 6/24/2020 (Wed) 8PM | 復習用 もくもく会|
+| [Day 5](Day5_RL_and_more.md)    | 7/ 1/2020 (Wed) 8PM | 強化学習、モデルの自動設計(AutoML) | | TBD |
+| [Day 5.5](Day5_5_RL_and_more.md)  | 7/ 8/2020 (Wed) 8PM | 復習用 もくもく会|
+| [Day 6](Day6_ML_Workflow.md)    | 7/15/2020 (Wed) 8PM | MLモデル開発ワークフロー | | TBD |
+| Day 6.5  | 7/23/2020 (Wed) 8PM | 復習用 もくもく会|
 
 <br>
 
