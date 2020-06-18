@@ -72,10 +72,10 @@ Colabノートを使って理解した内容を適宜実行してML/DLの基本�
 | [Day 3.5](Day3_5_RNN.md)  | 5/27/2020 (Wed) 9PM | 復習用 もくもく会|
 | [Day 4](Day4_Networks.md)  | 6/17/2020 (Wed) 8PM | ResNetやEncoder-Decoderなど、画像系 必須アーキテクチャ |  | [土田 安紘](https://awl.co.jp/member/yasuhiro-tsuchida/) 氏 (AWL株式会社 CTO / AI HOKKAIDO LAB所長) |
 | [Day 4.5](Day4_5_Networks.md)  | 6/24/2020 (Wed) 8PM | 復習用 もくもく会|
-| [Day 5](Day5_RL_and_more.md)    | 7/ 1/2020 (Wed) 8PM | 強化学習、モデルの自動設計(AutoML) | | TBD |
-| [Day 5.5](Day5_5_RL_and_more.md)  | 7/ 8/2020 (Wed) 8PM | 復習用 もくもく会|
-| [Day 6](Day6_ML_Workflow.md)    | 7/15/2020 (Wed) 8PM | MLモデル開発ワークフロー | | TBD |
-| [Day 6.5](Day6_5_ML_Workflow.md)  | 7/23/2020 (Wed) 8PM | 復習用 もくもく会|
+| [Day 5](Day5_RL_and_more.md)    | TBD (Wed) 8PM | 強化学習、モデルの自動設計(AutoML) | | TBD |
+| [Day 5.5](Day5_5_RL_and_more.md)  | TBD (Wed) 8PM | 復習用 もくもく会|
+| [Day 6](Day6_ML_Workflow.md)    | TBD (Wed) 8PM | MLモデル開発ワークフロー | | TBD |
+| [Day 6.5](Day6_5_ML_Workflow.md)  | TBD (Wed) 8PM | 復習用 もくもく会|
 
 <br>
 
