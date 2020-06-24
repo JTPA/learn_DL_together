@@ -6,6 +6,10 @@ Venue: Hangout Meet (meetup参加者あてに通知されます）
 
 Chat: [https://nocnoc.ooo/app#/chat/A1B6CDAC-637F-4455-9582-D086AC289268](https://nocnoc.ooo/app#/chat/A1B6CDAC-637F-4455-9582-D086AC289268)
 
+<br>
+
+## 当日資料
+
 > [当日のスライド (Day4 前半)](https://docs.google.com/presentation/d/1ONVyHUkNc2D4ogiFQy8DMdEhOPk-cYeBXXqeXliKo5o/edit?usp=sharing)
 >
 > [スペシャルゲスト 土田氏によるスライド (Day4 後半)](https://drive.google.com/file/d/1shxvfGjLaT09geXQZ7o1kF-DN9xd_H4-/view?usp=sharing)
@@ -14,7 +18,6 @@ Chat: [https://nocnoc.ooo/app#/chat/A1B6CDAC-637F-4455-9582-D086AC289268](https:
 <br>
   
 ## 画像系基本アーキテクチャ解説
-
 
 
 VGG16
