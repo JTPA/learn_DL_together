@@ -6,11 +6,15 @@ Venue: Hangout Meet (meetup参加者あてに通知されます）
 
 Chat: [https://nocnoc.ooo/app#/chat/A1B6CDAC-637F-4455-9582-D086AC289268](https://nocnoc.ooo/app#/chat/A1B6CDAC-637F-4455-9582-D086AC289268)
 
+> [当日のスライド (Day4 前半)](https://docs.google.com/presentation/d/1ONVyHUkNc2D4ogiFQy8DMdEhOPk-cYeBXXqeXliKo5o/edit?usp=sharing)
+>
+> [スペシャルゲスト 土田氏によるスライド (Day4 後半)](https://drive.google.com/file/d/1shxvfGjLaT09geXQZ7o1kF-DN9xd_H4-/view?usp=sharing)
+
+
 <br>
   
 ## 画像系基本アーキテクチャ解説
 
-[当日のスライド (Day4 前半)](https://docs.google.com/presentation/d/1ONVyHUkNc2D4ogiFQy8DMdEhOPk-cYeBXXqeXliKo5o/edit?usp=sharing)
 
 
 VGG16
@@ -65,8 +69,5 @@ U-Net (Enoder-Decoder)
 [https://awl.co.jp/member/yasuhiro-tsuchida/](https://awl.co.jp/member/yasuhiro-tsuchida/) 
 
 土田 安紘 / AWL株式会社 (取締役CTO 兼 AI HOKKAIDO LAB所長)
-
-[当日のスライド (Day4 後半)](https://drive.google.com/file/d/1shxvfGjLaT09geXQZ7o1kF-DN9xd_H4-/view?usp=sharing)
-
 
 
