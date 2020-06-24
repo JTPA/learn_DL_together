@@ -7,13 +7,16 @@ Venue: Hangout Meet (meetup参加者あてに通知されます）
 Chat: [https://nocnoc.ooo/app#/chat/E3F2F42A-7FD7-4FB2-9232-B95E54C53621](https://nocnoc.ooo/app#/chat/E3F2F42A-7FD7-4FB2-9232-B95E54C53621)
 
 <br>
+
+## 当日資料
+
+> [当日のスライド (Day3 前半)](https://docs.google.com/presentation/d/1LCMVEfYYajOMr_W4iQUvkIvZ43f5cce5Mwvjyo5r1po/edit?usp=sharing)
+>
+> スペシャルゲスト 数原氏によるスライドは当日参加者宛にメールにて
+
+<br>
   
 ## RNN, LSTM / NLP最新アーキテクチャ (BERT/Transfomerなど）解説
-
-
-当日前半の[スライド](https://docs.google.com/presentation/d/1LCMVEfYYajOMr_W4iQUvkIvZ43f5cce5Mwvjyo5r1po/edit?usp=sharing)
-
-数原氏による後半部分のスライドは当日参加者宛にメールにて
 
 <br>
 
