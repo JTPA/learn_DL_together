@@ -8,6 +8,13 @@ Chat: https://nocnoc.ooo/app#/chat/B1AB9B0B-1D5C-456E-BD0D-A68CBB6C889D
 
 <br>
 
+## 当日資料
+
+> [スペシャルゲスト 山下先生によるスライド](https://drive.google.com/file/d/1PdSp-qyxnXCXBLXKv6PPl7cfc1bMLRoc/view?usp=sharing)
+
+
+<br>
+
 ## CNN / Dropout / 他各種テクニック
 
 コースマテリアル:
@@ -49,7 +56,3 @@ We will do.
 [山下 力也](https://www.linkedin.com/in/rikiya-yamashita/) 氏 (Postdoc, Rubin Lab, Dept. of Biomedical Data Science, Stanford School of Medicine)
 
 [Twitter: @YamashitaRikiya](https://twitter.com/YamashitaRikiya) / [LinkedIn](https://www.linkedin.com/in/rikiya-yamashita/) / [Google Scholar](https://scholar.google.com/citations?user=ECfSS-EAAAAJ&hl=en) / [Github: rikiyay](https://github.com/rikiyay?tab=repositories)
-
-
-当日のスライドは[こちら](https://drive.google.com/file/d/1PdSp-qyxnXCXBLXKv6PPl7cfc1bMLRoc/view?usp=sharing)
-
