@@ -12,7 +12,7 @@ Chat: [https://nocnoc.ooo/app#/chat/A1B6CDAC-637F-4455-9582-D086AC289268](https:
 
 > [当日のスライド (Day5 前半)](https://docs.google.com/presentation/d/1r-AuFHbcTrJBro-FiVykc2qbOG3CvWHJgViBnkFLZ14/edit?usp=sharing)
 >
-> [スペシャルゲスト 飯塚 修平氏によるスライド (Day5 後半): "フロントエンド ML と　クリエイティブ アプリケーション"](http://bit.ly/frontendml-creative)
+> [スペシャルゲスト 飯塚 修平氏によるスライド (Day5 後半): "フロントエンド MLとクリエイティブ アプリケーション"](http://bit.ly/frontendml-creative)
 
 
 <br>
