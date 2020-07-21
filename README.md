@@ -70,12 +70,12 @@ Colabノートを使って理解した内容を適宜実行してML/DLの基本�
 | [Day 2.5](Day2_5_CNN_and_more.md)   | 5/13/2020 (Wed) 9PM | 復習用 もくもく会|
 | [Day 3](Day3_RNN.md)   | 5/20/2020 (Wed) 9PM | RNN / 時系列データ処理 | [Illustrated Guide to LSTM’s and GRU’s](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21) | [数原 良彦](https://yoshi-suhara.com/) 氏 (Megagon Labs リサーチサイエンティスト) |
 | [Day 3.5](Day3_5_RNN.md)  | 5/27/2020 (Wed) 9PM | 復習用 もくもく会|
-| [Day 4](Day4_Networks.md)  | 6/17/2020 (Wed) 8PM | ResNetやEncoder-Decoderなど、画像系 必須アーキテクチャ |  | [土田 安紘](https://awl.co.jp/member/yasuhiro-tsuchida/) 氏 (AWL株式会社 CTO / AI HOKKAIDO LAB所長)氏 |
+| [Day 4](Day4_Networks.md)  | 6/17/2020 (Wed) 8PM | 画像系 必須アーキテクチャ |  | [土田 安紘](https://awl.co.jp/member/yasuhiro-tsuchida/) 氏 (AWL株式会社 CTO / AI HOKKAIDO LAB所長)氏 |
 | [Day 4.3](Day4_3_Networks.md)  | 6/24/2020 (Wed) 8PM | 復習用 もくもく会|
 | [Day 4.6](Day4_6_Networks.md)  | 7/1/2020 (Wed) 8PM | 論文読み会 |
 | [Day 5](Day5_RL_and_AutoML.md)    | 7/15 (Wed) 8PM | 強化学習、モデルの自動設計(AutoML) | | [飯塚 修平](https://tushuhei.com/)氏 (クリエイティブ テクノロジスト) |
 | [Day 5.5](Day5_5_RL_and_AutoML.md)  | 7/22 (Wed) 8PM | 復習用 もくもく会|
-| [Day 6](Day6_ML_Workflow.md)    | TBD (Wed) 8PM | MLモデル開発ワークフロー | | TBD |
+| [Day 6](Day6_ML_Workflow.md)    | TBD (Wed) 8PM | ML開発ワークフロー | | TBD |
 | [Day 6.5](Day6_5_ML_Workflow.md)  | TBD (Wed) 8PM | 復習用 もくもく会|
 
 <br>
