@@ -73,9 +73,9 @@ Colabノートを使って理解した内容を適宜実行してML/DLの基本�
 | [Day 4](Day4_Networks.md)  | 6/17/2020 (Wed) 8PM | 画像系 必須アーキテクチャ |  | [土田 安紘](https://awl.co.jp/member/yasuhiro-tsuchida/) 氏 (AWL株式会社 CTO / AI HOKKAIDO LAB所長)氏 |
 | [Day 4.3](Day4_3_Networks.md)  | 6/24/2020 (Wed) 8PM | 復習用 もくもく会|
 | [Day 4.6](Day4_6_Networks.md)  | 7/1/2020 (Wed) 8PM | 論文読み会 |
-| [Day 5](Day5_RL_and_AutoML.md)    | 7/15 (Wed) 8PM | 強化学習、モデルの自動設計(AutoML) | | [飯塚 修平](https://tushuhei.com/)氏 (クリエイティブ テクノロジスト) |
-| [Day 5.5](Day5_5_RL_and_AutoML.md)  | 7/22 (Wed) 8PM | 復習用 もくもく会|
-| [Day 5.7](Day5_7_RL_and_AutoML.md)  | 7/29 (Wed) 8PM | 復習用 もくもく会 (PartII)|
+| [Day 5](Day5_RL_and_AutoML.md)    | 7/15/2020 (Wed) 8PM | 強化学習、モデルの自動設計(AutoML) | | [飯塚 修平](https://tushuhei.com/)氏 (クリエイティブ テクノロジスト) |
+| [Day 5.5](Day5_5_RL_and_AutoML.md)  | 7/22/2020 (Wed) 8PM | 復習用 もくもく会|
+| [Day 5.7](Day5_7_RL_and_AutoML.md)  | 7/29/2020 (Wed) 8PM | 復習用 もくもく会 (PartII)|
 | [Day 6](Day6_ML_Workflow.md)    | TBD (Wed) 8PM | ML開発ワークフロー | | TBD |
 | [Day 6.5](Day6_5_ML_Workflow.md)  | TBD (Wed) 8PM | 復習用 もくもく会|
 
