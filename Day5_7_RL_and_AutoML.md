@@ -14,7 +14,13 @@ Date: 7/29/2020 (Wed) 8PM
 <br>
 
 ## 当日使ったノート・資料
+[tensorflow-js-image-classification (Glitch)](https://glitch.com/~tensorflow-js-image-classification)
 
+Glitch上での他のチュートリアルへは [TensorFlow.JS(Glitch)](https://glitch.com/@TensorFlowJS)
+
+転移学習も含めたTensorflow.js codelab:
+- [TensorFlow.js Transfer Learning Image Classifier](https://codelabs.developers.google.com/codelabs/tensorflowjs-teachablemachine-codelab/#0)
+- [TensorFlow.js - Audio recognition using transfer learning](https://codelabs.developers.google.com/codelabs/tensorflowjs-audio-codelab/index.html?index=..%2F..index#0)
 
 [Variational Autoencoder 徹底解説 (Qiita)](https://qiita.com/kenmatsu4/items/b029d697e9995d93aa24)
 
