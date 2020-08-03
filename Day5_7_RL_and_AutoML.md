@@ -23,4 +23,4 @@ Date: 7/29/2020 (Wed) 8PM
 [Tensorflow core Convolutional Variational Autoencoder チュートリアル Colab note](https://colab.sandbox.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cvae.ipynb)
 
 
-勉強会後に見つけた、VAEの原理が非常によく説明されている記事 [Understanding Variational Autoencoders (VAEs)]https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73
+勉強会後に見つけた、VAEの原理が非常によく説明されている記事 [Understanding Variational Autoencoders (VAEs)](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
