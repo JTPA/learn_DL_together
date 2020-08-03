@@ -16,11 +16,11 @@ Date: 7/29/2020 (Wed) 8PM
 ## 当日使ったノート・資料
 
 
-[Variational Autoencoder徹底解説](https://qiita.com/kenmatsu4/items/b029d697e9995d93aa24)
+[Variational Autoencoder 徹底解説 (Qiita)](https://qiita.com/kenmatsu4/items/b029d697e9995d93aa24)
 
 [Tensorflow core Convolutional Variational Autoencoder チュートリアル](https://www.tensorflow.org/tutorials/generative/cvae)
 
-[Tensorflow core Convolutional Variational Autoencoder チュートリアル Colab note](https://colab.sandbox.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cvae.ipynb)
+[Tensorflow core Convolutional Variational Autoencoder チュートリアル (Colab note)](https://colab.sandbox.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cvae.ipynb)
 
 
 勉強会後に見つけた、VAEの原理が非常によく説明されている記事 [Understanding Variational Autoencoders (VAEs)](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
