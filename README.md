@@ -76,8 +76,7 @@ Colabノートを使って理解した内容を適宜実行してML/DLの基本�
 | [Day 5](Day5_RL_and_AutoML.md)    | 7/15/2020 (Wed) 8PM | 強化学習、モデルの自動設計(AutoML) | | [飯塚 修平](https://tushuhei.com/)氏 (クリエイティブ テクノロジスト) |
 | [Day 5.5](Day5_5_RL_and_AutoML.md)  | 7/22/2020 (Wed) 8PM | 復習用 もくもく会|
 | [Day 5.7](Day5_7_RL_and_AutoML.md)  | 7/29/2020 (Wed) 8PM | 復習用 もくもく会 (PartII)|
-| [Day 6](Day6_ML_Workflow.md)    | TBD (Wed) 8PM | ML開発ワークフロー | | TBD |
-| [Day 6.5](Day6_5_ML_Workflow.md)  | TBD (Wed) 8PM | 復習用 もくもく会|
+| [Day 6](Day6_ML_Workflow.md)    | 8/20/2020 (Wed) 8PM | ML開発前半・GAN・姿勢推定など | | TBD |
 
 <br>
 
