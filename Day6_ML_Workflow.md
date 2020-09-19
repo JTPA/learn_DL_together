@@ -42,13 +42,12 @@ GANの手法を単眼超解像（低解像度の入力画像から高解像度�
 
 ## Pose Machine
 
-“[Convolutional Pose Machines](https://arxiv.org/pdf/1602.00134.pdf)” 2016
+“[Convolutional Pose Machines](https://arxiv.org/pdf/1602.00134.pdf)” by 2016
 
 現在広く使われている、画像内の人物の姿勢を推定する技術の走りとなった論文。CMUの金出先生が名を連ねている。
 
 全体的な印象としては既存の姿勢推定技術を多層のCNNで置き換えたことで大幅な精度向上があったと言える。
-ただしそれだけではなくて、姿勢推定のタスクを3層に分けているところが大きなポイント。それぞれの層の出力（中間出力）をlossに加えることでレイヤー数が増えても学習できるようにし、
-また周囲の他の部位の中間推定結果も踏まえてより高度な推定ができる構造になっている。
+ただしそれだけではなくて、姿勢推定のタスクを3層に分けているところも大きなポイント。それぞれの層の出力（中間出力）をlossに加えることでレイヤー数が増えても学習できるようになっており、また周囲の他の部位の中間推定結果も踏まえてより高度な推定ができる構造になっている。
 
 <BR>
 
@@ -62,6 +61,7 @@ GANの手法を単眼超解像（低解像度の入力画像から高解像度�
 ## 特別ゲスト: [Daichi Yoshikawa](https://www.linkedin.com/in/daichi-yoshikawa-profile/), [Eiji Hayashi](http://eiji.hayashi.io/), [Yoshihiko Suhara](https://yoshi-suhara.com/) 
 
 後半はML業界の一線で活躍されている上記特別ゲスト＋JTPAのスタッフ（西田、山中）のファシリテートによるパネルディスカッションでした。
+
 最終回に相応しく、最先端のエンジニア／リサーチャーによる本音トークで大変盛り上がり参考になる会でした。ご参加頂いたゲスト・参加者の方には改めてお礼申し上げます。
 
 [当日のスライド (Day6 パネルディスカッション用)](https://docs.google.com/presentation/d/1rx0nUcL5VbwJe_wnKiB4YUmJriybo5x-oWLt1vBQQNA/edit?usp=sharing)
