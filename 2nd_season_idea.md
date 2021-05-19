@@ -66,7 +66,7 @@ connpass: [https://jtpa.connpass.com/](https://jtpa.connpass.com/)
 
 <br>
 
-## Day4 数原 良彦 氏： "ニューラル要約技術の最新動向、教師なし複数文書要約技術を中心に" + 数原氏 自著論文の紹介
+## Day4 数原 良彦 氏： "ニューラル要約技術の最新動向、教師なし複数文書要約技術を中心に" + 数原氏 関連自著論文の紹介
 
 日時： 米国時間 7/8日 8PM（日本時間 7/9 12PM）
 
@@ -74,31 +74,39 @@ connpass: [https://jtpa.connpass.com/](https://jtpa.connpass.com/)
 
 講師： [数原 良彦](https://yoshi-suhara.com/) 氏 (Megagon Labs リサーチサイエンティスト) 
 
-題材： "ニューラル要約技術の最新動向、教師なし複数文書要約技術を中心に" + 数原氏 自著論文の紹介
+題材： "ニューラル要約技術の最新動向、教師なし複数文書要約技術を中心に" + 数原氏 関連自著論文の紹介
 
 
 アジェンダ：
 
-* 導入
-   * 要約技術の簡単な分類
-      * Extractive vs. Abstractive
-      * Single-document vs. Multi-document
-      * Query-focused vs. Query-independent
-   * 今回は abstractive + multi-document (single document もちょっぴり) + query-independent
-* 教師ありの要約技術
-   * seq2seq モデルのおさらい（必要とあればTransformerもちょっぴり）
-   * Supervised abstractive summarization 
-      * Single-document summarization
-      * Multi-document summarization
-* 教師データはいつもあるとは限らない！そこで教師なし（複数）文書要約
-   * MeanSum 型モデルの説明
-   * （手前味噌）OpinionDigest
-   * （手前味噌）Coop
-   * （宣伝だけ）QT
-* その他の最新動向と今後の展望
-   * Pre-trained seq2seq models (T5/BART/PEGASUS)
-   * Control code (CTRL, OpinionDigest, GSum, CTRLsum, Self-supervised and controllable)
-   * + alpha
+### アジェンダ
+
+- 導入 & 文書要約技術の分類
+    - 抽出型 vs 抽象型
+    - 単一文書要約 vs 複数文書要約
+    - クエリ指向 vs 非クエリ指向
+- 教師ありの要約技術
+    - seq2seq モデルのおさらい
+    - 参照要約を用いたニューラル要約技術
+- 教師データは必要としない教師なし文書要約技術＋自著論文紹介
+    - Auto-Encoderと平均ベクトルを用いた教師なし文書要約
+    - 意見フレーズを用いた教師なし複数文書要約 (OpinionDigest)
+    - 潜在ベクトル最適化を用いた複数文書要約 (Coop)
+    - その他の手法、テキスト以外の要約技術
+- まとめ: 最新動向と今後の展望
+    - 事前学習言語モデルを用いた要約技術
+    - コントロールコードを用いた要約技術
+    - など	　
+
+### 関連論文
+- 詳細に説明予定
+    - (OpinionDigest) **Yoshihiko Suhara**(&#42;), Xiaolan Wang(&#42;), Stefanos Angelidis, Wang-Chiew Tan, "OpinionDigest: A Simple Framework for Opinion Summarization", ACL 2020. ((*) Contributed equally) [PDF](https://www.aclweb.org/anthology/2020.acl-main.513/)
+    - (Coop) Hayate Iso, Xiaolan Wang, **Yoshihiko Suhara**, Stefanos Angelidis, Wang-Chiew Tan, "Convex Aggregation for Opinion Summarization", arXiv, 2021. [PDF](https://arxiv.org/abs/2104.01371)
+- 概要だけ説明予定
+    - S Angelidis, RK Amplayo, **Y Suhara**, X Wang, M Lapata, "Extractive Opinion Summarization in Quantized Transformer Spaces", TACL 2021.
+    - Nofar Carmeli, Xiaolan Wang, **Yoshihiko Suhara**, Stefanos Angelidis, Yuliang Li, Jinfeng Li, Wang-Chiew Tan, "Constructing Explainable Opinion Graphs from Reviews" WWW 2021. [PDF](https://arxiv.org/abs/2006.00119)
+    - Xiaolan Wang, **Yoshihiko Suhara**, Natalie Nuno, Yuliang Li, Jinfeng Li, Nofar Carmeli, Stefanos Angelidis, Eser Kindogan, Wang-Chiew Tan, "ExtremeReader: An Interactive Explorer For Customizable And Explainable Review Summarization" WWW 2020 (demo) [PDF](https://megagon.ai/wp-content/uploads/2020/05/ExtremeReader.pdf)
+
 
 <br>
 
