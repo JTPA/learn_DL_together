@@ -46,7 +46,9 @@ connpass: [https://jtpa.connpass.com/](https://jtpa.connpass.com/)
 
 講師： [山下 力也](https://www.linkedin.com/in/rikiya-yamashita/) 氏 (スタンフォード大 Department of Biomedical Data Science ポスドク)
 
-題材： ["Deep learning model for the prediction of microsatellite instability in colorectal cancer: a diagnostic study"](https://pubmed.ncbi.nlm.nih.gov/33387492/)
+題材1： ["Deep learning model for the prediction of microsatellite instability in colorectal cancer: a diagnostic study"](https://pubmed.ncbi.nlm.nih.gov/33387492/)
+
+題材2： ["https://arxiv.org/abs/2102.01678"](https://arxiv.org/abs/2102.01678)
 
 
 アジェンダ：
