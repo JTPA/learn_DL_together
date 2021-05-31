@@ -39,7 +39,7 @@ connpass: [https://jtpa.connpass.com/](https://jtpa.connpass.com/)
                         
 <br>
 
-## Day2 山下 力也 氏： "DLのcomputational pathologyへの応用"
+## Day2 山下 力也 氏： "DLのComputational Pathologyへの応用"
 
 日時： 米国時間 6/24日 8PM（日本時間 6/25 12PM）
 
