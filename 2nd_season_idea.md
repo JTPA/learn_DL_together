@@ -1,12 +1,12 @@
 # JTPA みんなでやろうDL オンライン勉強会 - 2nd Season (draft)
 
-みんなでやろうDL勉強会がパワーアップして帰ってきた！
+"みんなでやろうDL"勉強会がパワーアップして帰ってきた！
 
-* 全6回 毎週木曜日開催　各会は1−1.5時間程度
-* [1st Season](https://github.com/JTPA/learn_DL_together/blob/master/README.md) からの豪華な講師陣がそのままに、今回は講師の著作、著論文についてより具体的なお話を伺います。
-* 概ね初心者向きですが会によっては中級者向き。特にMLの応用にフォーカスをあてています。
-* 質問などもしやすい雰囲気で、交流用の会も準備しており初心者大歓迎です。
-* 講師による講義会が2回続いたのち、演習＋LT会を一回挟みます。こちらは初心者でも自由に質問して頂いたり、ネットワーキングや復習用に使って頂く時間です。
+* 全6回 毎週木曜日開催　各回は1-1.5時間程度
+* [1st Season](https://github.com/JTPA/learn_DL_together/blob/master/README.md) からの豪華な講師陣がそのままに、今回は講師の著書や著論文に沿ったトピックを伺います。
+* 全体的には中級者向きですが、初心者にも配慮したないようです。特にMLの先端領域での応用にフォーカスをあてています。
+* 質問などもしやすい雰囲気で、交流用の会も準備しております。初心者大歓迎です。
+* 講師による講義回が2回続いたのち、演習＋LTの回を一回挟みます。こちらは初心者から上級者まで自由に質問して頂いたり、ネットワーキングや復習用に使って頂く時間です。
 
 <br>
 
@@ -18,27 +18,28 @@ connpass: [https://jtpa.connpass.com/](https://jtpa.connpass.com/)
 
 <br>
 
-## Day1 飯塚 修平 氏： "ウェブ最適化ではじめる機械学習"
+## Day1 飯塚 修平 氏： "ベイズ最適化入門"
 
 日時： 米国時間 6/17日 8PM（日本時間 6/18 12PM）
 
-時間： 1.5時間
+時間： 1 - 1.5時間
 
-講師： [飯塚 修平](https://tushuhei.com/) 氏 （クリエイティブ テクノロジスト）
+講師： [飯塚 修平](https://tushuhei.com/) 氏
 
-題材： オライリー出版  ["ウェブ最適化ではじめる機械学習"](https://tushuhei.com/blog/introduction-to-machine-learning-with-web-optimization/)
+2017年 東京大学大学院博士課程修了。現在は UX エンジニア / クリエィティブテクノロジストとして、機械学習を駆使したウェブサイト制作や展示作品に取り組んでいる。ポートフォリオ: [tushuhei.com](https://tushuhei.com/)
 
 
-アジェンダ：
+題材： オライリー出版  [『ウェブ最適化ではじめる機械学習』](https://tushuhei.com/blog/introduction-to-machine-learning-with-web-optimization/)
 
-* 1章 A/Bテストからはじめよう: ベイズ統計による仮説検定入門
-* 2章 確率的プログラミング: コンピュータの助けを借りる
-* 7章 ベイズ最適化: 連続値の解空間に挑む
-* 8章 これからのウェブ最適化
+
+### アジェンダ：
+
+ベイズ最適化は最小の評価回数で未知の関数（ブラックボックス関数）の最大点を求めようとする枠組みです。人間の感性そのものをブラックボックス関数と捉えることで、グラフィックアート、インターネット広告、ウェブサイトの UI など、人間と機械の対話から人工物をデザインする手法として広く応用され始めています。今回の勉強会ではベイズ統計の基礎からはじめ、バンディットアルゴリズム、ベイズ最適化と発展させることでその理論と実装を学びます。なお、内容の多くは著書[『ウェブ最適化ではじめる機械学習』（オライリー・ジャパン, 2020）](https://tushuhei.com/blog/introduction-to-machine-learning-with-web-optimization/)に基づいています。
+
                         
 <br>
 
-## Day2 山下 力也 氏： "Deep learning model for the prediction of microsatellite instability in colorectal cancer: a diagnostic study"
+## Day2 山下 力也 氏： "DLのcomputational pathologyへの応用"
 
 日時： 米国時間 6/24日 8PM（日本時間 6/25 12PM）
 
@@ -46,16 +47,33 @@ connpass: [https://jtpa.connpass.com/](https://jtpa.connpass.com/)
 
 講師： [山下 力也](https://www.linkedin.com/in/rikiya-yamashita/) 氏 (スタンフォード大 Department of Biomedical Data Science ポスドク)
 
-題材1： ["Deep learning model for the prediction of microsatellite instability in colorectal cancer: a diagnostic study"](https://pubmed.ncbi.nlm.nih.gov/33387492/)
+__1-2行でのプロフィール__
 
-題材2： ["https://arxiv.org/abs/2102.01678"](https://arxiv.org/abs/2102.01678)
+題材1: ["Deep learning model for the prediction of microsatellite instability in colorectal cancer: a diagnostic study"](https://pubmed.ncbi.nlm.nih.gov/33387492/)
+
+題材2: ["Learning domain-agnostic visual representation for computational pathology using medically-irrelevant style transfer augmentation"](https://arxiv.org/abs/2102.01678)
+
+題材3: ["Deep learning predicts postsurgical recurrence of hepatocellular carcinoma from digital histopathologic images"](https://www.nature.com/articles/s41598-021-81506-y)
+
+題材4: ["Data valuation for medical imaging using Shapley value and application to a large-scale chest X-ray dataset"](https://www.nature.com/articles/s41598-021-87762-2)
 
 
-アジェンダ：
+### アジェンダ：
 
-* 
-*
-*
+- 簡単な自己紹介
+- そもそもComputational Pathologyとは
+- 自著論文の紹介
+    - 詳細に紹介
+        - 大腸がんのGenetic Subtype分類: [題材1](https://pubmed.ncbi.nlm.nih.gov/33387492/)
+        - Computational PathologyにおけるStyle Transfer Data AugmentationによるDomain Generalization: [題材2](https://arxiv.org/abs/2102.01678)
+    - 簡単に紹介
+        - 肝細胞がんの術後再発の予測: [題材3](https://www.nature.com/articles/s41598-021-81506-y)
+        - Data ShapleyによるData Qualityの評価とChest X-rayへの応用: [題材4](https://www.nature.com/articles/s41598-021-87762-2)
+- まとめ
+    - Computational PathologyにおけるChallenges
+    - 最近の動向や個人的な興味など
+    - などなど
+
 
 <br>
 
@@ -65,11 +83,17 @@ connpass: [https://jtpa.connpass.com/](https://jtpa.connpass.com/)
 
 時間： 1.5時間
 
-( 進行検討中... )
+* LT希望者がいれば 6名まで1人2-3分程度で自分の興味や作ってみた物、作ってみたい物を自由にLTタイム 〜15分
+* 演習ではColabやJupiterノートでの題材や気になる記事・論文などを参加者から上げてもらい、皆で動かしてみたり討論します。　〜45分
+* 自己紹介・雑談・自由質問・ネットワーキングタイム　〜15-30分
+
+
 
 <br>
 
-## Day4 数原 良彦 氏： "ニューラル要約技術の最新動向、教師なし複数文書要約技術を中心に" + 数原氏 関連自著論文の紹介
+## Day4 数原 良彦 氏： "教師なし複数文書要約技術を中心に、ニューラル要約技術の最新動向"
+
+__1-2行でのプロフィール__
 
 日時： 米国時間 7/8日 8PM（日本時間 7/9 12PM）
 
@@ -79,8 +103,6 @@ connpass: [https://jtpa.connpass.com/](https://jtpa.connpass.com/)
 
 題材： "ニューラル要約技術の最新動向、教師なし複数文書要約技術を中心に" + 数原氏 関連自著論文の紹介
 
-
-アジェンダ：
 
 ### アジェンダ
 
@@ -115,6 +137,8 @@ connpass: [https://jtpa.connpass.com/](https://jtpa.connpass.com/)
 
 ## Day5 林 鋭志 氏： "RadarNet: Efficient Gesture Recognition Technique Utilizing a Miniature Radar Sensor"
 
+__1-2行でのプロフィール__
+
 日時： 米国時間 7/15日 8PM（日本時間 7/16 12PM）
 
 時間： 1.5時間
@@ -124,7 +148,7 @@ connpass: [https://jtpa.connpass.com/](https://jtpa.connpass.com/)
 題材： ["RadarNet: Efficient Gesture Recognition Technique Utilizing a Miniature Radar Sensor"](https://dl.acm.org/doi/10.1145/3411764.3445367)
 
 
-アジェンダ：
+### アジェンダ：
 
 * 
 *
@@ -138,7 +162,9 @@ connpass: [https://jtpa.connpass.com/](https://jtpa.connpass.com/)
 
 時間： 1.5時間
 
-( 進行検討中... )
+* LT希望者がいれば 6名まで1人2-3分程度で自分の興味や作ってみた物、作ってみたい物を自由にLTタイム 〜15分
+* 演習ではColabやJupiterノートでの題材や気になる記事・論文などを参加者から上げてもらい、皆で動かしてみたり討論します。　〜45分
+* 自己紹介・雑談・自由質問・ネットワーキングタイム　〜15-30分
 
 
 
