@@ -47,7 +47,7 @@ connpass: [https://jtpa.connpass.com/](https://jtpa.connpass.com/)
 
 講師： [山下 力也](https://www.linkedin.com/in/rikiya-yamashita/) 氏 (スタンフォード大 Department of Biomedical Data Science ポスドク)
 
-__1-2行でのプロフィール__
+__2-3行でのプロフィール__
 
 題材1: ["Deep learning model for the prediction of microsatellite instability in colorectal cancer: a diagnostic study"](https://pubmed.ncbi.nlm.nih.gov/33387492/)
 
@@ -93,13 +93,14 @@ __1-2行でのプロフィール__
 
 ## Day4 数原 良彦 氏： "教師なし複数文書要約技術を中心に、ニューラル要約技術の最新動向"
 
-__1-2行でのプロフィール__
-
 日時： 米国時間 7/8日 8PM（日本時間 7/9 12PM）
 
 時間： 1.5時間
 
 講師： [数原 良彦](https://yoshi-suhara.com/) 氏 (Megagon Labs リサーチサイエンティスト) 
+
+__2-3行でのプロフィール__
+
 
 題材： "ニューラル要約技術の最新動向、教師なし複数文書要約技術を中心に" + 数原氏 関連自著論文の紹介
 
@@ -137,13 +138,14 @@ __1-2行でのプロフィール__
 
 ## Day5 林 鋭志 氏： "RadarNet: Efficient Gesture Recognition Technique Utilizing a Miniature Radar Sensor"
 
-__1-2行でのプロフィール__
-
 日時： 米国時間 7/15日 8PM（日本時間 7/16 12PM）
 
 時間： 1.5時間
 
 講師： [林 鋭志](http://eiji.hayashi.io/) 氏 (Google Advanced Technology and Projects)
+
+__2-3行でのプロフィール__
+
 
 題材： ["RadarNet: Efficient Gesture Recognition Technique Utilizing a Miniature Radar Sensor"](https://dl.acm.org/doi/10.1145/3411764.3445367)
 
