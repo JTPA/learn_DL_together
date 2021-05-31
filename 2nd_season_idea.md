@@ -47,16 +47,13 @@ connpass: [https://jtpa.connpass.com/](https://jtpa.connpass.com/)
 
 講師： [山下 力也](https://www.linkedin.com/in/rikiya-yamashita/) 氏 (スタンフォード大 Department of Biomedical Data Science ポスドク)
 
-__2-3行でのプロフィール__
+京都大学医学部卒、京都大学大学院医学研究科博士課程終了。Ex-画像診断医。現在はスタンフォード大学にて機械学習などを用いることでBiomedical Dataからどのように知識を学ぶことができるかに興味をもって研究しています。
 
 題材1: ["Deep learning model for the prediction of microsatellite instability in colorectal cancer: a diagnostic study"](https://pubmed.ncbi.nlm.nih.gov/33387492/)
 
 題材2: ["Learning domain-agnostic visual representation for computational pathology using medically-irrelevant style transfer augmentation"](https://arxiv.org/abs/2102.01678)
 
-題材3: ["Deep learning predicts postsurgical recurrence of hepatocellular carcinoma from digital histopathologic images"](https://www.nature.com/articles/s41598-021-81506-y)
-
-題材4: ["Data valuation for medical imaging using Shapley value and application to a large-scale chest X-ray dataset"](https://www.nature.com/articles/s41598-021-87762-2)
-
+題材3: ["Data valuation for medical imaging using Shapley value and application to a large-scale chest X-ray dataset"](https://www.nature.com/articles/s41598-021-87762-2)
 
 ### アジェンダ：
 
@@ -67,13 +64,11 @@ __2-3行でのプロフィール__
         - 大腸がんのGenetic Subtype分類: [題材1](https://pubmed.ncbi.nlm.nih.gov/33387492/)
         - Computational PathologyにおけるStyle Transfer Data AugmentationによるDomain Generalization: [題材2](https://arxiv.org/abs/2102.01678)
     - 簡単に紹介
-        - 肝細胞がんの術後再発の予測: [題材3](https://www.nature.com/articles/s41598-021-81506-y)
-        - Data ShapleyによるData Qualityの評価とChest X-rayへの応用: [題材4](https://www.nature.com/articles/s41598-021-87762-2)
+        - Data ShapleyによるData Qualityの評価とChest X-rayへの応用: [題材3](https://www.nature.com/articles/s41598-021-87762-2)
 - まとめ
     - Computational PathologyにおけるChallenges
-    - 最近の動向や個人的な興味など
+    - 最近の動向や個人的な興味
     - などなど
-
 
 <br>
 
@@ -91,7 +86,7 @@ __2-3行でのプロフィール__
 
 <br>
 
-## Day4 数原 良彦 氏： "教師なし複数文書要約技術を中心に、ニューラル要約技術の最新動向"
+## Day4 数原 良彦 氏： "ニューラル要約技術の最新動向 (教師なし複数文書要約技術を中心に)"
 
 日時： 米国時間 7/8日 8PM（日本時間 7/9 12PM）
 
@@ -102,7 +97,9 @@ __2-3行でのプロフィール__
 __2-3行でのプロフィール__
 
 
-題材： "ニューラル要約技術の最新動向、教師なし複数文書要約技術を中心に" + 数原氏 関連自著論文の紹介
+題材1：["OpinionDigest: A Simple Framework for Opinion Summarization"](https://www.aclweb.org/anthology/2020.acl-main.513/)
+
+題材2：["Convex Aggregation for Opinion Summarization"](https://arxiv.org/abs/2104.01371)
 
 
 ### アジェンダ
