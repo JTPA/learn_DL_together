@@ -94,7 +94,7 @@ connpass: [https://jtpa.connpass.com/](https://jtpa.connpass.com/)
 
 講師： [数原 良彦](https://yoshi-suhara.com/) 氏 (Megagon Labs リサーチサイエンティスト) 
 
-__2-3行でのプロフィール__
+2008年 慶應義塾大学大学院前期博士課程修了。2008年-2014年日本電信電話株式会社研究員、2014年-2016年株式会社リクルートホールディングス研究員およびMIT Media Lab Visiting Scientistを経て2017年より現職。博士（工学）。Megagon Labsでは自然言語処理とデータマネジメントに関わる研究開発をされています。
 
 
 題材1：["OpinionDigest: A Simple Framework for Opinion Summarization"](https://www.aclweb.org/anthology/2020.acl-main.513/)
