@@ -36,7 +36,7 @@ connpass: [https://jtpa.connpass.com/](https://jtpa.connpass.com/)
 
 ベイズ最適化は最小の評価回数で未知の関数（ブラックボックス関数）の最大点を求めようとする枠組みです。人間の感性そのものをブラックボックス関数と捉えることで、グラフィックアート、インターネット広告、ウェブサイトの UI など、人間と機械の対話から人工物をデザインする手法として広く応用され始めています。今回の勉強会ではベイズ統計の基礎からはじめ、バンディットアルゴリズム、ベイズ最適化と発展させることでその理論と実装を学びます。なお、内容の多くは著書[『ウェブ最適化ではじめる機械学習』（オライリー・ジャパン, 2020）](https://tushuhei.com/blog/introduction-to-machine-learning-with-web-optimization/)に基づいています。
 
-                        
+
 <br>
 
 ## Day2 山下 力也 氏： "DLのComputational Pathologyへの応用"
@@ -47,7 +47,7 @@ connpass: [https://jtpa.connpass.com/](https://jtpa.connpass.com/)
 
 講師： [山下 力也](https://www.linkedin.com/in/rikiya-yamashita/) 氏 (スタンフォード大 Department of Biomedical Data Science ポスドク)
 
-京都大学医学部卒、京都大学大学院医学研究科博士課程終了。Ex-画像診断医。現在はスタンフォード大学にて機械学習などを用いることでBiomedical Dataからどのように知識を学ぶことができるかに興味をもって研究しています。
+京都大学医学部卒、京都大学大学院医学研究科博士課程終了。Ex-画像診断医。現在はスタンフォード大学にて機械学習などを用いることでBiomedical Dataからどのように知識を学ぶことができるかに興味をもって研究されています。
 
 題材1: ["Deep learning model for the prediction of microsatellite instability in colorectal cancer: a diagnostic study"](https://pubmed.ncbi.nlm.nih.gov/33387492/)
 
