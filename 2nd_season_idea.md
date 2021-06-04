@@ -4,8 +4,8 @@
 
 * 全6回 毎週木曜日開催　各回は1-1.5時間程度
 * [1st Season](https://github.com/JTPA/learn_DL_together/blob/master/README.md) からの豪華な講師陣がそのままに、今回は講師の著書や著論文に沿ったトピックを伺います。
-* 全体的には中級者向きですが、初心者にも配慮したないようです。特にMLの先端領域での応用にフォーカスをあてています。
-* 質問などもしやすい雰囲気で、交流用の会も準備しております。初心者大歓迎です。
+* 全体的には中級者向きですが、初心者にも配慮した内容です。特にMLの先端領域での応用にフォーカスを当てています。
+* 質問などもしやすい雰囲気で交流用の会も準備しています。初心者大歓迎！
 * 講師による講義回が2回続いたのち、演習＋LTの回を一回挟みます。こちらは初心者から上級者まで自由に質問して頂いたり、ネットワーキングや復習用に使って頂く時間です。
 
 <br>
@@ -20,7 +20,7 @@ connpass: [https://jtpa.connpass.com/](https://jtpa.connpass.com/)
 
 ## Day1 飯塚 修平 氏： "ベイズ最適化入門"
 
-日時： 米国時間 6/17日 8PM（日本時間 6/18 12PM）
+日時： 米国時間(PST) 6/17日 8PM（日本時間 6/18 12PM）
 
 時間： 1 - 1.5時間
 
@@ -41,7 +41,7 @@ connpass: [https://jtpa.connpass.com/](https://jtpa.connpass.com/)
 
 ## Day2 山下 力也 氏： "DLのComputational Pathologyへの応用"
 
-日時： 米国時間 6/24日 8PM（日本時間 6/25 12PM）
+日時： 米国時間(PST) 6/24日 8PM（日本時間 6/25 12PM）
 
 時間： 1.5時間
 
@@ -74,7 +74,7 @@ connpass: [https://jtpa.connpass.com/](https://jtpa.connpass.com/)
 
 ## Day3 第一回 演習＆LT会
 
-日時： 米国時間 7/1日 8PM（日本時間 7/2 12PM）
+日時： 米国時間(PST) 7/1日 8PM（日本時間 7/2 12PM）
 
 時間： 1.5時間
 
@@ -88,7 +88,7 @@ connpass: [https://jtpa.connpass.com/](https://jtpa.connpass.com/)
 
 ## Day4 数原 良彦 氏： "ニューラル要約技術の最新動向 (教師なし複数文書要約技術を中心に)"
 
-日時： 米国時間 7/8日 8PM（日本時間 7/9 12PM）
+日時： 米国時間(PST) 7/8日 8PM（日本時間 7/9 12PM）
 
 時間： 1.5時間
 
@@ -135,7 +135,7 @@ connpass: [https://jtpa.connpass.com/](https://jtpa.connpass.com/)
 
 ## Day5 林 鋭志 氏： "RadarNet: Efficient Gesture Recognition Technique Utilizing a Miniature Radar Sensor"
 
-日時： 米国時間 7/15日 8PM（日本時間 7/16 12PM）
+日時： 米国時間(PST) 7/15日 8PM（日本時間 7/16 12PM）
 
 時間： 1.5時間
 
@@ -157,7 +157,7 @@ __2-3行でのプロフィール__
 
 ## Day6 第二回 演習＆LT会
 
-日時： 米国時間 7/22日 8PM（日本時間 7/23 12PM）
+日時： 米国時間(PST) 7/22日 8PM（日本時間 7/23 12PM）
 
 時間： 1.5時間
 
