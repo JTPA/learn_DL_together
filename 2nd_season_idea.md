@@ -26,7 +26,7 @@ connpass: [https://jtpa.connpass.com/](https://jtpa.connpass.com/)
 
 講師： [飯塚 修平](https://tushuhei.com/) 氏
 
-2017年 東京大学大学院博士課程修了。現在は UX エンジニア / クリエィティブテクノロジストとして、機械学習を駆使したウェブサイト制作や展示作品に取り組んでいる。ポートフォリオ: [tushuhei.com](https://tushuhei.com/)
+2017年 東京大学大学院博士課程修了。現在は UX エンジニア / クリエィティブテクノロジストとして、機械学習を駆使したウェブサイト制作や展示作品に取り組んでおられます。ポートフォリオ: [tushuhei.com](https://tushuhei.com/)
 
 
 題材： オライリー出版  [『ウェブ最適化ではじめる機械学習』](https://tushuhei.com/blog/introduction-to-machine-learning-with-web-optimization/)
