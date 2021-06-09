@@ -141,7 +141,7 @@ connpass: [https://jtpa.connpass.com/](https://jtpa.connpass.com/)
 
 講師： [林 鋭志](http://eiji.hayashi.io/) 氏 (Google Advanced Technology and Projects)
 
-__2-3行でのプロフィール__
+京都大学修士課程（メカトロニクス）修了後、三菱電機株式会社にて主任研究員を経て、Carnegie Mellon University Human-Computer Interaction InstituteでPh.D取得。2016年よりGoogleのインキュベーションセクションであるAdvanced Technologies and Projectsにてセンサを用いたインタラクション技術の研究開発に従事。
 
 
 題材： ["RadarNet: Efficient Gesture Recognition Technique Utilizing a Miniature Radar Sensor"](https://dl.acm.org/doi/10.1145/3411764.3445367)
@@ -149,9 +149,7 @@ __2-3行でのプロフィール__
 
 ### アジェンダ：
 
-* 
-*
-*
+画像、テキスト以外のDLのアプリケーションとして、レーダー信号を用いたジェスチャ認識に関する主著論文を紹介頂きます。
 
 <br>
 
