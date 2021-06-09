@@ -1,4 +1,4 @@
-# JTPA みんなでやろうDL オンライン勉強会 - 2nd Season (draft)
+# JTPA みんなでやろうDL オンライン勉強会 - 2nd Season
 
 "みんなでやろうDL"勉強会がパワーアップして帰ってきた！
 
